@@ -29,17 +29,7 @@ I am a Software Engineering student focused on building robust, scalable backend
 ---
 
 ## 🚀 Featured Projects
-
-### 01. NestJS Authentication & Authorization Service
-> An enterprise-ready micro-service handling identity management and access control.
-
-- **Highlights:** Built JWT-based stateless authentication featuring secure access/refresh token rotation mechanism. Implemented fine-grained Role-Based Access Control (RBAC) and modular architecture for clean separation of concerns.
-- **Tech Stack:** `NestJS`, `TypeScript`, `PostgreSQL`, `JWT`, `Docker`
-- 🔗 **Repository:** [GBGhost17/nestjs-auth-service](https://github.com/GBGhost17)
-
----
-
-### 02. Ghost TV – Media Streaming Backend
+### 01. Ghost TV – Media Streaming Backend
 > Scalable backend infrastructure supporting high-concurrency video delivery.
 
 - **Highlights:** Designed core business logic for user management, playlist curation, and video metadata indexing. Integrated optimized database indexing strategies for low-latency queries.
@@ -48,11 +38,18 @@ I am a Software Engineering student focused on building robust, scalable backend
 
 ---
 
-### 03. Real-Time Video Streaming Engine (RTP/RTSP)
-> Experimental low-latency streaming server designed for live video transmission.
+### 02. Smart Tourism System
+> A multi-service backend platform for smart tourism management and user engagement.
 
-- **Highlights:** Implemented socket-level client-server protocol handling for RTSP setup and RTP packet transport over WebSockets, enabling real-time media feeds directly on the web browser.
-- **Tech Stack:** `Python`, `Node.js`, `RTP/RTSP`, `WebSockets`
-- 🔗 **Repository:** [GBGhost17/rtp-rtsp-streaming](https://github.com/GBGhost17)
+- **Highlights:** Designed and integrated a API Gateway using Node.js to route traffic across specialized backend services (including Python analytics/processing modules). Optimized relational queries on MS SQL Server for low-latency tourist routing and destination recommendations.
+- **Tech Stack:** `Node.js`, `Express`, `Python`, `Microsoft SQL Server`, `REST API`
+- 🔗 **Repository:** [dnhoang-2006/SMART-TOURISM-SYSTEM](https://github.com/dnhoang-2006/SMART-TOURISM-SYSTEM)
 
 ---
+
+### 03. NestJS Authentication & Authorization Service
+> An enterprise-ready micro-service handling identity management and access control.
+
+- **Highlights:** Built JWT-based stateless authentication featuring secure access/refresh token rotation mechanism. Implemented fine-grained Role-Based Access Control (RBAC) and modular architecture for clean separation of concerns.
+- **Tech Stack:** `NestJS`, `TypeScript`, `PostgreSQL`, `JWT`, `Docker`
+- 🔗 **Repository:** [GBGhost17/nestjs-auth-service](https://github.com/GBGhost17)
