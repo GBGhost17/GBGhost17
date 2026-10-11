@@ -1,55 +1,98 @@
-# Pham Gia Bao (GBGhost17)
+# Hi, I'm Phạm Gia Bảo 👋
 
-**Backend Software Engineering Student | Node.js & NestJS Specialist**
+<p align="left">
+  <a href="https://github.com/GBGhost17"><img src="https://img.shields.io/badge/GitHub-GBGhost17-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/pgbao17"><img src="https://img.shields.io/badge/LinkedIn-pgbao17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pgbaoforwork17@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pgbao17)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GBGhost17)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pgbaoforwork17@example.com)
-
----
-
-## 📌 Executive Summary
-
-I am a Software Engineering student focused on building robust, scalable backend architectures and real-time communication systems. My core expertise revolves around **NestJS**, **TypeScript**, and **Distributed Systems fundamentals**. I specialize in designing secure authentication workflows (JWT, RBAC), real-time streaming protocols (RTP/RTSP, WebSockets), and reliable relational database schemas.
-
-- 🎯 **Targeting:** Backend / Full-Stack Software Engineer Internship Roles
-- ⚡ **Core Competencies:** API Design, Authentication & Authorization, Real-Time Streaming, System Performance
+Backend-focused Software Engineering student building scalable APIs, authentication systems, and real-time platforms with **Node.js**, **NestJS**, and **TypeScript**.
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🎯 Career Focus
 
-| Domain / Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Backend & Frameworks** | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+- Target role: **Backend Engineer Intern / Fresher**
+- Interest domains: **Distributed systems, media streaming, secure authentication**
+- Current priorities: **System design, performance optimization, clean architecture**
+
+## 🧩 Core Skills
+
+- API design with REST and modular service architecture
+- Authentication & authorization: JWT, refresh token rotation, RBAC
+- Real-time communication: WebSocket and streaming-oriented backend workflows
+- Database design and query optimization for relational systems
+
+## 🛠 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Backend & Frameworks
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Data & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
-### 01. Ghost TV – Media Streaming Backend
-> Scalable backend infrastructure supporting high-concurrency video delivery.
 
-- **Highlights:** Designed core business logic for user management, playlist curation, and video metadata indexing. Integrated optimized database indexing strategies for low-latency queries.
-- **Tech Stack:** `Node.js`, `TypeScript`, `PostgreSQL`, `TypeORM`
-- 🔗 **Repository:** [GBGhost17/ghost-tv](https://github.com/GBGhost17)
+### Ghost TV — Media Streaming Backend
+
+Scalable backend for high-concurrency video delivery and metadata management.
+
+- Designed user, playlist, and video metadata modules
+- Improved read performance with database indexing strategies
+- Stack: **Node.js, TypeScript, PostgreSQL, TypeORM**
+- Repo: [ghost-tv](https://github.com/GBGhost17/ghost-tv)
+
+### Smart Tourism System
+
+Multi-service backend ecosystem for tourism management and engagement.
+
+- Built API gateway for cross-service routing
+- Integrated Python processing services with Node.js gateway
+- Optimized SQL Server queries for lower response latency
+- Stack: **Node.js, Express, Python, Microsoft SQL Server**
+- Repo: [SMART-TOURISM-SYSTEM](https://github.com/dnhoang-2006/SMART-TOURISM-SYSTEM)
+
+### NestJS Auth Service
+
+Authentication and authorization service for production-oriented backend systems.
+
+- Implemented JWT auth with secure access/refresh token strategy
+- Built fine-grained RBAC permission flow
+- Structured service modules for maintainability and scalability
+- Stack: **NestJS, TypeScript, PostgreSQL, Docker**
+- Repo: [nestjs-auth-service](https://github.com/GBGhost17/nestjs-auth-service)
 
 ---
 
-### 02. Smart Tourism System
-> A multi-service backend platform for smart tourism management and user engagement.
+## 📈 GitHub Stats
 
-- **Highlights:** Designed and integrated a API Gateway using Node.js to route traffic across specialized backend services (including Python analytics/processing modules). Optimized relational queries on MS SQL Server for low-latency tourist routing and destination recommendations.
-- **Tech Stack:** `Node.js`, `Express`, `Python`, `Microsoft SQL Server`, `REST API`
-- 🔗 **Repository:** [dnhoang-2006/SMART-TOURISM-SYSTEM](https://github.com/dnhoang-2006/SMART-TOURISM-SYSTEM)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GBGhost17&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBGhost17&layout=compact&theme=github_dark&hide_border=true&hide=html,css,scss" alt="Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GBGhost17&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### 03. NestJS Authentication & Authorization Service
-> An enterprise-ready micro-service handling identity management and access control.
+## 🤝 Let's Connect
 
-- **Highlights:** Built JWT-based stateless authentication featuring secure access/refresh token rotation mechanism. Implemented fine-grained Role-Based Access Control (RBAC) and modular architecture for clean separation of concerns.
-- **Tech Stack:** `NestJS`, `TypeScript`, `PostgreSQL`, `JWT`, `Docker`
-- 🔗 **Repository:** [GBGhost17/nestjs-auth-service](https://github.com/GBGhost17)
+If you are looking for a backend intern with strong ownership and fast learning ability, feel free to reach out via [LinkedIn](https://linkedin.com/in/pgbao17) or [Email](mailto:pgbaoforwork17@example.com).
