@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://github.com/GBGhost17"><img src="https://img.shields.io/badge/GitHub-GBGhost17-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/pgbao17"><img src="https://img.shields.io/badge/LinkedIn-pgbao17-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pgbaoforwork17@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:pgbaoforwork17@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 Backend-focused Software Engineering student building scalable APIs, authentication systems, and real-time platforms with **Node.js**, **NestJS**, and **TypeScript**.
@@ -95,4 +95,4 @@ Authentication and authorization service for production-oriented backend systems
 
 ## 🤝 Let's Connect
 
-If you are looking for a backend intern with strong ownership and fast learning ability, feel free to reach out via [LinkedIn](https://linkedin.com/in/pgbao17) or [Email](mailto:pgbaoforwork17@example.com).
+If you are looking for a backend intern with strong ownership and fast learning ability, feel free to reach out via [LinkedIn](https://linkedin.com/in/pgbao17) or [Email](mailto:pgbaoforwork17@gmail.com).
